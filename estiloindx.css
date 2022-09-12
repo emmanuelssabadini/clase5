@@ -1,0 +1,21 @@
+.caja{
+
+height: 150px;
+width: 150px;
+
+}
+
+.rojo {
+
+background-color: brown;
+}
+
+.azul {
+
+background-color: blue;
+
+}
+
+.contenedor_padre{
+    display: flex;
+}
